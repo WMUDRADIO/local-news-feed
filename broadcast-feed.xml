@@ -5,26 +5,26 @@
     <link>https://github.com/WMUDRADIO/local-news-feed</link>
     <description>Approved local stories in broadcast order</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Oct 2026 08:40:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 08:52:17 GMT</lastBuildDate>
     <item>
       <description>A Vermont man has died weeks after a head-on crash in Pawlet. He initially reported only a hand injury but later passed away from his injuries. Authorities continue to investigate the crash.</description>
       <guid isPermaLink="false">7169e0bc-5e28-4b92-9a77-6fa7650f92c6</guid>
-      <pubDate>Wed, 28 Oct 2026 08:40:57 GMT</pubDate>
+      <pubDate>Wed, 28 Oct 2026 08:52:17 GMT</pubDate>
     </item>
     <item>
       <description>A former Burlington school administrator is under investigation for embezzling over one point seven million dollars. The alleged theft spanned more than ten years. Authorities continue to look into the case.</description>
       <guid isPermaLink="false">1558ed26-2664-4179-8bbc-4383082f682f</guid>
-      <pubDate>Wed, 28 Oct 2026 08:39:57 GMT</pubDate>
-    </item>
-    <item>
-      <description>A man suspected of multiple bank robberies was arrested in downtown Burlington. He will be extradited to Rhode Island to face charges. Police made the arrest on Monday afternoon.</description>
-      <guid isPermaLink="false">10f177b4-f09d-4b35-b4ec-7efaa6f57fba</guid>
-      <pubDate>Wed, 28 Oct 2026 08:38:57 GMT</pubDate>
+      <pubDate>Wed, 28 Oct 2026 08:51:17 GMT</pubDate>
     </item>
     <item>
       <description>Southwestern Vermont's freight rail is getting a major upgrade with over sixty million dollars in federal funding. The project will replace old jointed tracks with continuous welded rail to boost safety and speed. This investment also lays groundwork for possible future passenger rail service in the region.</description>
       <guid isPermaLink="false">40c1ffec-7b46-432e-a90f-bd3bdef2d8c0</guid>
-      <pubDate>Wed, 28 Oct 2026 08:37:57 GMT</pubDate>
+      <pubDate>Wed, 28 Oct 2026 08:50:17 GMT</pubDate>
+    </item>
+    <item>
+      <description>A man suspected of multiple bank robberies was arrested in downtown Burlington. He will be extradited to Rhode Island to face charges. Police made the arrest on Monday afternoon.</description>
+      <guid isPermaLink="false">10f177b4-f09d-4b35-b4ec-7efaa6f57fba</guid>
+      <pubDate>Wed, 28 Oct 2026 08:49:17 GMT</pubDate>
     </item>
   </channel>
 </rss>
