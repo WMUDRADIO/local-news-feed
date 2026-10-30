@@ -5,26 +5,26 @@
     <link>https://github.com/WMUDRADIO/local-news-feed</link>
     <description>Approved local stories in broadcast order</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Oct 2026 15:49:30 GMT</lastBuildDate>
-    <item>
-      <description>Gas prices in Vermont have dropped slightly to four dollars thirty-four cents a gallon. Prices are lowest in Bennington and Addison counties and highest near the I-eighty-nine corridor. Diesel prices, however, have risen nationally.</description>
-      <guid isPermaLink="false">da321ca7-fdb2-456d-8493-2dbdc46b611a</guid>
-      <pubDate>Fri, 30 Oct 2026 15:49:30 GMT</pubDate>
-    </item>
+    <lastBuildDate>Fri, 30 Oct 2026 15:49:40 GMT</lastBuildDate>
     <item>
       <description>An archaeological dig at the Bennington Battle Monument uncovered what may be a historic tavern. Artifacts include a King George the Third coin and mason-marked pipe pieces. The site will be open to visitors through tomorrow before preservation work begins.</description>
       <guid isPermaLink="false">3c628344-1541-4268-a499-f8e6109cf67c</guid>
-      <pubDate>Fri, 30 Oct 2026 15:48:30 GMT</pubDate>
+      <pubDate>Fri, 30 Oct 2026 15:49:40 GMT</pubDate>
+    </item>
+    <item>
+      <description>Gas prices in Vermont have dropped slightly to four dollars thirty-four cents a gallon. Prices are lowest in Bennington and Addison counties and highest near the I-eighty-nine corridor. Diesel prices, however, have risen nationally.</description>
+      <guid isPermaLink="false">da321ca7-fdb2-456d-8493-2dbdc46b611a</guid>
+      <pubDate>Fri, 30 Oct 2026 15:48:40 GMT</pubDate>
     </item>
     <item>
       <description>One million dollars in funding is now available to dairy farmers in the Northeast. Farmers in New York, Vermont, and New Hampshire can apply for modernization grants. This program covers eleven states to support farm improvements.</description>
       <guid isPermaLink="false">fb3a9446-4fe1-47c9-82a9-0809db65cf55</guid>
-      <pubDate>Fri, 30 Oct 2026 15:47:30 GMT</pubDate>
+      <pubDate>Fri, 30 Oct 2026 15:47:40 GMT</pubDate>
     </item>
     <item>
       <description>A thirty-one-acre wildfire in Stamford has been contained after three days of firefighting. Crews from several departments and the U.S. Forest Service worked together to control the fire. Officials continue to monitor the area for safety.</description>
       <guid isPermaLink="false">03c59c5f-e732-4579-b441-c342303510a6</guid>
-      <pubDate>Fri, 30 Oct 2026 15:46:30 GMT</pubDate>
+      <pubDate>Fri, 30 Oct 2026 15:46:40 GMT</pubDate>
     </item>
   </channel>
 </rss>
