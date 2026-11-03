@@ -5,11 +5,11 @@
     <link>https://github.com/WMUDRADIO/local-news-feed</link>
     <description>Latest Woodchuck Weather forecast</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Nov 2026 09:27:48 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 16:33:30 GMT</lastBuildDate>
     <item>
-      <description>Here's your Woodchuck Weather. Highs today will range from sixty-one to sixty-five degrees with mostly cloudy to cloudy skies and a chance of rain showers, especially late this morning and afternoon. Tonight expect lows between forty-eight and fifty-three degrees, with skies turning partly to mostly cloudy and only a slight chance of lingering showers.</description>
-      <guid isPermaLink="false">weather-1793698068657</guid>
-      <pubDate>Tue, 03 Nov 2026 09:27:48 GMT</pubDate>
+      <description>Here's your Woodchuck Weather. High temperatures this afternoon range from sixty-one to sixty-five degrees under mostly cloudy to cloudy skies, with rain showers likely in most areas and a chance of showers farther south. Tonight, skies turn mostly cloudy to partly cloudy with lows between forty-eight and fifty-three degrees and only a slight chance of lingering showers early. Rainfall amounts today and tonight will generally be less than one tenth of an inch across the region.</description>
+      <guid isPermaLink="false">weather-1793723610670</guid>
+      <pubDate>Tue, 03 Nov 2026 16:33:30 GMT</pubDate>
     </item>
   </channel>
 </rss>
