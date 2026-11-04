@@ -5,26 +5,26 @@
     <link>https://github.com/WMUDRADIO/local-news-feed</link>
     <description>Approved local stories in broadcast order</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Nov 2026 06:38:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 12:32:44 GMT</lastBuildDate>
     <item>
       <description>Republican Governor Phil Scott won a historic sixth term as Vermont governor with Molly Gray winning as lieutenant governor. Democrats flipped multiple legislative seats across the state. U.S. Representative Becca Balint was also reelected easily.</description>
       <guid isPermaLink="false">5140803c-5adf-4cab-8a00-d667246ffdb0</guid>
-      <pubDate>Wed, 04 Nov 2026 06:38:15 GMT</pubDate>
+      <pubDate>Wed, 04 Nov 2026 12:32:44 GMT</pubDate>
     </item>
     <item>
       <description>Jeff Haylon won the Rutland-nine House District race .Alicia Malay won a second term in the Rutland-eight House District. David Bosch and Thomas Burditt are likely winners in the Rutland-two House race. Jonathan Hescock leads Jim Casey in the Addison-Rutland House race. Phoebe Tucker won the Rutland-Windsor House District seat.</description>
       <guid isPermaLink="false">111aef18-0da9-4499-8684-cdc5fc38e975</guid>
-      <pubDate>Wed, 04 Nov 2026 06:37:15 GMT</pubDate>
-    </item>
-    <item>
-      <description>David Wolk won a Rutland County Senate seat as an independent. He previously served in the Vermont Senate and retired as Castleton University president. Republican Brian Collamore was re-elected, while Senator Terry Williams appears to have lost.</description>
-      <guid isPermaLink="false">b442b11a-1a23-4ce0-bc91-e4f836ad6160</guid>
-      <pubDate>Wed, 04 Nov 2026 06:36:15 GMT</pubDate>
+      <pubDate>Wed, 04 Nov 2026 12:31:44 GMT</pubDate>
     </item>
     <item>
       <description>Vermonters approved two constitutional amendments Tuesday. One protects collective bargaining rights and bans right-to-work laws. The other guarantees equal protection under the law regardless of race, gender, and other factors.</description>
       <guid isPermaLink="false">cf0f3edc-9cf6-4b24-aabe-59123d21e95a</guid>
-      <pubDate>Wed, 04 Nov 2026 06:35:15 GMT</pubDate>
+      <pubDate>Wed, 04 Nov 2026 12:30:44 GMT</pubDate>
+    </item>
+    <item>
+      <description>David Wolk won a Rutland County Senate seat as an independent. He previously served in the Vermont Senate and retired as Castleton University president. Republican Brian Collamore was re-elected, while Senator Terry Williams appears to have lost.</description>
+      <guid isPermaLink="false">b442b11a-1a23-4ce0-bc91-e4f836ad6160</guid>
+      <pubDate>Wed, 04 Nov 2026 12:29:44 GMT</pubDate>
     </item>
   </channel>
 </rss>
