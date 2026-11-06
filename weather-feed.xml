@@ -3,17 +3,10 @@
   <channel>
     <title>Woodchuck Weather Feed</title>
     <link>https://github.com/WMUDRADIO/local-news-feed</link>
-    <description>Latest Woodchuck Weather forecast</description>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 06 Nov 2026 18:08:01 GMT</lastBuildDate>
     <item>
-      <description>Latest Woodchuck Weather forecast&lt;/description&gt;
-    &lt;language&gt;en-us&lt;/language&gt;
-    &lt;lastBuildDate&gt;Fri, six Nov twenty twenty-six eighteen:six:one GMT&lt;/lastBuildDate&gt;
-    &lt;item&gt;
-      &lt;description&gt;Here's your Woodchuck Weather. Tonight, expect mostly cloudy to overcast skies with a chance of rain and low temperatures ranging from the mid-forties to the upper forties across the region. Saturday brings cloudy to mostly cloudy conditions with rain likely, and highs from the mid-fifties to the upper fifties. Rain continues Saturday night with lows in the mid-thirties to upper thirties, and precipitation amounts could reach up to half an inch in some areas.</description>
-      <guid isPermaLink="false">weather-1793988481350</guid>
-      <pubDate>Fri, 06 Nov 2026 18:08:01 GMT</pubDate>
+      <description>Here's your Woodchuck Weather. Tonight, expect mostly cloudy to cloudy skies across the region with low temperatures ranging from the mid forties to the upper forties and a chance of light rain, especially late, with precipitation chances between fifteen and forty percent. Saturday brings cloudy or mostly cloudy skies and high temperatures from the mid fifties to the upper fifties, with rain likely in most areas and precipitation chances climbing to between forty-seven and seventy-two percent. Saturday night, rain continues under cloudy skies with lows in the mid thirties to upper thirties and precipitation chances as high as ninety-three percent, with rainfall totals reaching up to half an inch in some spots.</description>
+      <guid isPermaLink="false">weather-1793989591001</guid>
+      <pubDate>Fri, 06 Nov 2026 18:26:31 GMT</pubDate>
     </item>
   </channel>
 </rss>
