@@ -5,26 +5,26 @@
     <link>https://github.com/WMUDRADIO/local-news-feed</link>
     <description>Approved local stories in broadcast order</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 Nov 2026 01:41:42 GMT</lastBuildDate>
-    <item>
-      <description>Veterans Day events are planned across Vermont for November eleventh. The centerpiece event this year in Rutland is the official unveiling of a brand-new, community-funded granite monument honoring World War Two soldiers from Rutland City and Rutland County. The monument will permanently display the names of local soldiers who were killed in action during the war.</description>
-      <guid isPermaLink="false">59520c36-69bd-48de-862a-0669eef8fd29-1t6qcjn</guid>
-      <pubDate>Sat, 07 Nov 2026 01:41:42 GMT</pubDate>
-    </item>
+    <lastBuildDate>Sat, 07 Nov 2026 15:11:40 GMT</lastBuildDate>
     <item>
       <description>Rutland County towns are working together to improve disaster response coordination. A recent exercise brought officials together to plan resource sharing during emergencies. The effort groups towns into subregions to enhance communication and support.</description>
       <guid isPermaLink="false">0bd9271a-5df2-47f1-b1be-6c23d3987c17-10si71q</guid>
-      <pubDate>Sat, 07 Nov 2026 01:40:42 GMT</pubDate>
+      <pubDate>Sat, 07 Nov 2026 15:11:40 GMT</pubDate>
     </item>
     <item>
       <description>Ben Traverse, president of the Burlington City Council, announced he is running for mayor of Burlington. He plans to focus on public safety and expanding social services. Traverse criticized the current mayor's approach and wants to address homelessness and substance use more effectively.</description>
       <guid isPermaLink="false">89d6820e-9064-4680-8b97-296dd5885886-1f5zzs6</guid>
-      <pubDate>Sat, 07 Nov 2026 01:39:42 GMT</pubDate>
+      <pubDate>Sat, 07 Nov 2026 15:10:40 GMT</pubDate>
     </item>
     <item>
-      <description>Rutland's mayor is worried about safety at Sheldon Towers after drug raids and a recent oven fire. The building is fire-safe but risks remain from hoarding and smoking violations. Police say calls have decreased and an officer is stationed there daily.</description>
-      <guid isPermaLink="false">3cf72a9e-dead-497e-bfb5-64e2ba4871cb-r2vyff</guid>
-      <pubDate>Sat, 07 Nov 2026 01:38:42 GMT</pubDate>
+      <description>Veterans Day events are planned across Vermont for November eleventh. The centerpiece event this year in Rutland is the official unveiling of a brand-new, community-funded granite monument honoring World War Two soldiers from Rutland City and Rutland County. The monument will permanently display the names of local soldiers who were killed in action during the war.</description>
+      <guid isPermaLink="false">59520c36-69bd-48de-862a-0669eef8fd29-1t6qcjn</guid>
+      <pubDate>Sat, 07 Nov 2026 15:09:40 GMT</pubDate>
+    </item>
+    <item>
+      <description>The Regional Food Bank will provide Thanksgiving dinners to ten thousand people in the North Country. This is part of the nation's largest Thanksgiving food distribution. The program supports families in need during the holidays.</description>
+      <guid isPermaLink="false">69b807fc-18fa-4173-97a4-e0fb027e8e75-aaaed6</guid>
+      <pubDate>Sat, 07 Nov 2026 15:08:40 GMT</pubDate>
     </item>
   </channel>
 </rss>
