@@ -5,26 +5,26 @@
     <link>https://github.com/WMUDRADIO/local-news-feed</link>
     <description>Approved local stories in broadcast order</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Nov 2026 08:18:59 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 16:48:38 GMT</lastBuildDate>
     <item>
       <description>Vermont business leaders say rising costs are squeezing tourism and hospitality. Killington Resort saw ski visits rise six percent but food and drink sales fall over ten percent per visitor. The resort built nearly four hundred subsidized housing units for workers and remains profitable.</description>
       <guid isPermaLink="false">4dc41bd2-60f0-4796-868d-a1f215fc3a49-10e9au1</guid>
-      <pubDate>Sat, 14 Nov 2026 08:18:59 GMT</pubDate>
+      <pubDate>Sat, 14 Nov 2026 16:48:38 GMT</pubDate>
+    </item>
+    <item>
+      <description>Elizabethtown in Essex County secured twenty-four million dollars in state funds for a new public sewer system. The project addresses wastewater contamination, including E. coli found in local waters. Construction is planned to start in late twenty-twenty-eight or early twenty-twenty-nine.</description>
+      <guid isPermaLink="false">e4f0daab-598a-4819-ae14-a3ab3018dae0-153z4e8</guid>
+      <pubDate>Sat, 14 Nov 2026 16:47:38 GMT</pubDate>
+    </item>
+    <item>
+      <description>The Charles R. Wood Foundation gave ten thousand dollars to Silver Bay YMCA's early learning center in Ticonderoga. The center serves children from six weeks to five years and supports mostly low-income working families. Enrollment is open now to help sustain this important childcare resource.</description>
+      <guid isPermaLink="false">64dbe8b9-eb81-44ec-bdf9-7be8aed19f8a-1ot99nw</guid>
+      <pubDate>Sat, 14 Nov 2026 16:46:38 GMT</pubDate>
     </item>
     <item>
       <description>Rutland Housing Authority addressed safety concerns at Sheldon Towers after a recent fire and drug bust. The building houses seniors and disabled residents, with many previously homeless. Security cameras and police patrols are in place, but evicting problem tenants takes time due to legal protections.</description>
       <guid isPermaLink="false">651f592b-8ab7-4280-8e4b-77d3dc046180-2yj2st</guid>
-      <pubDate>Sat, 14 Nov 2026 08:17:59 GMT</pubDate>
-    </item>
-    <item>
-      <description>A close New York State Senate race in the forty-third District has triggered an automatic recount. Democrat Devin Lander leads by three hundred thirty-five votes, but Republican Jake Ashby has not conceded. Democrats could gain their largest Senate majority in over a century if Lander wins.</description>
-      <guid isPermaLink="false">469ad63a-0d46-41d1-bbd4-b3c7f454bd89-1jm1rps</guid>
-      <pubDate>Sat, 14 Nov 2026 08:16:59 GMT</pubDate>
-    </item>
-    <item>
-      <description>Vermont is exploring 'second look' sentencing laws to review long prison terms. The legislation could allow earlier release if inmates no longer pose a danger. Similar laws are already in place in New York and other states.</description>
-      <guid isPermaLink="false">4452c972-353c-4901-95a5-3c13226df681-1nsuwzy</guid>
-      <pubDate>Sat, 14 Nov 2026 08:15:59 GMT</pubDate>
+      <pubDate>Sat, 14 Nov 2026 16:45:38 GMT</pubDate>
     </item>
   </channel>
 </rss>
