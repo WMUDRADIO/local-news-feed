@@ -5,26 +5,26 @@
     <link>https://github.com/WMUDRADIO/local-news-feed</link>
     <description>Approved local stories in broadcast order</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Nov 2026 14:33:54 GMT</lastBuildDate>
-    <item>
-      <description>Flights at Burlington International Airport are mostly back to normal, but delays continue. Airport officials praised teamwork among staff and local businesses. Some travelers faced long delays and had to find alternate ways to reach Vermont.</description>
-      <guid isPermaLink="false">bdbd0f8e-9b0c-44f7-95e0-18273c2a9e44-7qn7cy</guid>
-      <pubDate>Sun, 15 Nov 2026 14:33:54 GMT</pubDate>
-    </item>
+    <lastBuildDate>Sun, 15 Nov 2026 16:07:10 GMT</lastBuildDate>
     <item>
       <description>About seventy Vermont Air National Guard members returned from Germany after nearly a year. They were deployed to train Ukrainian soldiers in combatting Russian aggression. More soldiers are expected to return Sunday, completing the deployment.</description>
       <guid isPermaLink="false">cbaf1613-5339-49b4-8111-cea79dda9cb8-11w8bvw</guid>
-      <pubDate>Sun, 15 Nov 2026 14:32:54 GMT</pubDate>
+      <pubDate>Sun, 15 Nov 2026 16:07:10 GMT</pubDate>
     </item>
     <item>
-      <description>Vermont's rifle deer season opened at sunrise on November fourteenth and runs through November twenty-ninth. Hunters can take one legal buck and must report it within forty-eight hours. The season supports deer population management and ecosystem health.</description>
-      <guid isPermaLink="false">40d9aed8-2dfe-4449-9c6a-b4696c87fcca-174sms8</guid>
-      <pubDate>Sun, 15 Nov 2026 14:31:54 GMT</pubDate>
+      <description>Vermont's rifle deer season is underway through November twenty-ninth. Hunters can take one legal buck and must report it within forty-eight hours. The season supports deer population management and ecosystem health.</description>
+      <guid isPermaLink="false">40d9aed8-2dfe-4449-9c6a-b4696c87fcca-1a1jt1s</guid>
+      <pubDate>Sun, 15 Nov 2026 16:06:10 GMT</pubDate>
     </item>
     <item>
-      <description>Senator Peter Welch introduced a bill to support Iran war veterans exposed to toxic substances. The legislation aims to ease access to health benefits for affected service members. Welch also backs a bill to track and reduce risks from military burn pits.</description>
-      <guid isPermaLink="false">b4265baf-a9dd-4f25-96a8-c3b87337ba40-vx4q36</guid>
-      <pubDate>Sun, 15 Nov 2026 14:30:54 GMT</pubDate>
+      <description>Vermont Digger reports that Vermont is spending over five million dollars on McKinsey for healthcare consulting. McKinsey has been criticized for its role in the opioid crisis and promoting OxyContin. The state's health funding focuses on regionalization, telehealth, and artificial intelligence.</description>
+      <guid isPermaLink="false">e0daea83-6701-4e0e-ba28-d7d92b9e6f2b-16ie5ml</guid>
+      <pubDate>Sun, 15 Nov 2026 16:05:10 GMT</pubDate>
+    </item>
+    <item>
+      <description>A new biography explores the life of Adirondack 'Woodswoman' Anne LaBastille. She was a conservationist, author, and Adirondack Park commissioner. The book highlights her global work and challenges as a pioneering woman.</description>
+      <guid isPermaLink="false">c13cb48a-87cc-4d92-96a5-3247930af0f9-pb4nsn</guid>
+      <pubDate>Sun, 15 Nov 2026 16:04:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
