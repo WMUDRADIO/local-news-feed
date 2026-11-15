@@ -5,26 +5,26 @@
     <link>https://github.com/WMUDRADIO/local-news-feed</link>
     <description>Approved local stories in broadcast order</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Nov 2026 22:05:14 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 02:52:04 GMT</lastBuildDate>
+    <item>
+      <description>Flights at Burlington International Airport are mostly back to normal, but delays continue. Airport officials praised teamwork among staff and local businesses. Some travelers faced long delays and had to find alternate ways to reach Vermont.</description>
+      <guid isPermaLink="false">bdbd0f8e-9b0c-44f7-95e0-18273c2a9e44-7qn7cy</guid>
+      <pubDate>Sun, 15 Nov 2026 02:52:04 GMT</pubDate>
+    </item>
+    <item>
+      <description>About seventy Vermont Air National Guard members returned from Germany after nearly a year. They were deployed to train Ukrainian soldiers in combatting Russian aggression. More soldiers are expected to return Sunday, completing the deployment.</description>
+      <guid isPermaLink="false">cbaf1613-5339-49b4-8111-cea79dda9cb8-11w8bvw</guid>
+      <pubDate>Sun, 15 Nov 2026 02:51:04 GMT</pubDate>
+    </item>
+    <item>
+      <description>Senator Peter Welch introduced a bill to support Iran war veterans exposed to toxic substances. The legislation aims to ease access to health benefits for affected service members. Welch also backs a bill to track and reduce risks from military burn pits.</description>
+      <guid isPermaLink="false">b4265baf-a9dd-4f25-96a8-c3b87337ba40-vx4q36</guid>
+      <pubDate>Sun, 15 Nov 2026 02:50:04 GMT</pubDate>
+    </item>
     <item>
       <description>The Charles R. Wood Foundation gave ten thousand dollars to Silver Bay YMCA's early learning center in Ticonderoga. The center serves children from six weeks to five years and supports mostly low-income working families. Enrollment is open now to help sustain this important childcare resource.</description>
       <guid isPermaLink="false">64dbe8b9-eb81-44ec-bdf9-7be8aed19f8a-1ot99nw</guid>
-      <pubDate>Sat, 14 Nov 2026 22:05:14 GMT</pubDate>
-    </item>
-    <item>
-      <description>Vermont business leaders say rising costs are squeezing tourism and hospitality. Killington Resort saw ski visits rise six percent but food and drink sales fall over ten percent per visitor. The resort built nearly four hundred subsidized housing units for workers and remains profitable.</description>
-      <guid isPermaLink="false">4dc41bd2-60f0-4796-868d-a1f215fc3a49-10e9au1</guid>
-      <pubDate>Sat, 14 Nov 2026 22:04:14 GMT</pubDate>
-    </item>
-    <item>
-      <description>Rutland Housing Authority addressed safety concerns at Sheldon Towers after a recent fire and drug bust. The building houses seniors and disabled residents, with many previously homeless. Security cameras and police patrols are in place, but evicting problem tenants takes time due to legal protections.</description>
-      <guid isPermaLink="false">651f592b-8ab7-4280-8e4b-77d3dc046180-2yj2st</guid>
-      <pubDate>Sat, 14 Nov 2026 22:03:14 GMT</pubDate>
-    </item>
-    <item>
-      <description>Elizabethtown in Essex County secured twenty-four million dollars in state funds for a new public sewer system. The project addresses wastewater contamination, including E. coli found in local waters. Construction is planned to start in late twenty-twenty-eight or early twenty-twenty-nine.</description>
-      <guid isPermaLink="false">e4f0daab-598a-4819-ae14-a3ab3018dae0-153z4e8</guid>
-      <pubDate>Sat, 14 Nov 2026 22:02:14 GMT</pubDate>
+      <pubDate>Sun, 15 Nov 2026 02:49:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
