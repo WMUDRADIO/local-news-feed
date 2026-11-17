@@ -5,26 +5,26 @@
     <link>https://github.com/WMUDRADIO/local-news-feed</link>
     <description>Approved local stories in broadcast order</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Nov 2026 05:51:10 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 12:27:50 GMT</lastBuildDate>
     <item>
       <description>Vermont welcomed fifteen point six million visitors in twenty twenty-five, generating four point one billion dollars in spending. This supported over thirty-one thousand jobs and contributed eight point five percent to the state's GDP. Canadian visitation dropped twenty-eight percent, affecting tourism numbers.</description>
       <guid isPermaLink="false">b13365be-c8e9-4486-8347-7f5aca48f9eb-5zhdu7</guid>
-      <pubDate>Tue, 17 Nov 2026 05:51:10 GMT</pubDate>
+      <pubDate>Tue, 17 Nov 2026 12:27:50 GMT</pubDate>
     </item>
     <item>
-      <description>Vermont ski resorts are optimistic about Canadian visitors returning after the mid-term elections. Killington Resort will open Tuesday and has invested eighty million dollars in upgrades. Resorts are ready to make snow as temperatures drop this season.</description>
-      <guid isPermaLink="false">637c32e2-5965-4c7e-b2eb-613e179b8dd2-s0eare</guid>
-      <pubDate>Tue, 17 Nov 2026 05:50:10 GMT</pubDate>
-    </item>
-    <item>
-      <description>More than seventy Vermont students gathered in Rutland for a youth summit on education. They discussed topics like race, gender, and rural schools with educators and legislators. Organizers aim to increase student voice in education policy.</description>
-      <guid isPermaLink="false">8470c73e-e0d4-4005-85b5-3b39bcee848f-qi8ofg</guid>
-      <pubDate>Tue, 17 Nov 2026 05:49:10 GMT</pubDate>
+      <description>Dorset's forty-year water moratorium has been lifted by state officials. System upgrades funded by a five million dollar bond reduced leakage and increased capacity. New users can connect, but wastewater permits remain necessary for expansions.</description>
+      <guid isPermaLink="false">0b49ba1d-d3d8-4647-a520-1653db0c4af8-j9kw34</guid>
+      <pubDate>Tue, 17 Nov 2026 12:26:50 GMT</pubDate>
     </item>
     <item>
       <description>A Brandon man was arrested for stealing one thousand three hundred dollars in hunting gear from Walmart. Tanner Grandfield faces felony and misdemeanor charges including giving false information to police. He was ordered to stay away from Walmart after his release.</description>
       <guid isPermaLink="false">869e66ad-84aa-46c2-bb1e-a786ac1c39aa-1vao61r</guid>
-      <pubDate>Tue, 17 Nov 2026 05:48:10 GMT</pubDate>
+      <pubDate>Tue, 17 Nov 2026 12:25:50 GMT</pubDate>
+    </item>
+    <item>
+      <description>A crash is blocking both lanes of Vermont Route One Forty in Poultney. Emergency crews are responding to the scene. Drivers should expect delays and seek alternate routes.</description>
+      <guid isPermaLink="false">86fe959d-c0d5-45d5-a44c-ef612465f5c5-1r797y6</guid>
+      <pubDate>Tue, 17 Nov 2026 12:24:50 GMT</pubDate>
     </item>
   </channel>
 </rss>
