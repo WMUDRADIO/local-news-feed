@@ -5,26 +5,26 @@
     <link>https://github.com/WMUDRADIO/local-news-feed</link>
     <description>Approved local stories in broadcast order</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Nov 2026 11:36:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 16:21:36 GMT</lastBuildDate>
     <item>
-      <description>Vermont's law enforcement dispatch system was taken offline Monday night due to a potential security incident. The system manages records and dispatches for police across the state. Officials have not yet shared details on when it will be restored.</description>
-      <guid isPermaLink="false">74a4d992-3e9b-4207-a1eb-b2fc52a0ee8f-hw2690</guid>
-      <pubDate>Wed, 18 Nov 2026 11:36:00 GMT</pubDate>
+      <description>Vermont took its statewide police records system offline after a security alert. Emergency services and nine-one-onecalls continue without interruption. Agencies are using backup procedures while the system is investigated.</description>
+      <guid isPermaLink="false">47284e5e-a09d-4b53-8a7a-a2fae502bb39-11wsm0k</guid>
+      <pubDate>Wed, 18 Nov 2026 16:21:36 GMT</pubDate>
     </item>
     <item>
-      <description>Kathryn Frizzel, a mental health caseworker, was attacked outside the Chittenden County Courthouse in Burlington. The attacker, Refga Laku, faces attempted murder charges but is deemed mentally incompetent to stand trial. Officials say Vermont needs better facilities to treat violent individuals like Laku.</description>
-      <guid isPermaLink="false">1ff0d977-14ef-4479-901f-959f5575cb37-1nwzx1i</guid>
-      <pubDate>Wed, 18 Nov 2026 11:35:00 GMT</pubDate>
+      <description>Sugarbush Resort's opening day has been postponed. Skiers and snowboarders will need to wait for a new date.</description>
+      <guid isPermaLink="false">c5f30068-0a2d-45cb-927b-075a85e1fc99-xg0e9z</guid>
+      <pubDate>Wed, 18 Nov 2026 16:20:36 GMT</pubDate>
     </item>
     <item>
       <description>Vermont's latest education report shows slight gains in student proficiency. English language arts proficiency is fifty-six percent, math forty-two percent, and science forty-five percent. Achievement gaps persist for students with disabilities and economically disadvantaged students.</description>
       <guid isPermaLink="false">7604060d-be01-4daf-b811-4dc269310da3-8bzp21</guid>
-      <pubDate>Wed, 18 Nov 2026 11:34:00 GMT</pubDate>
+      <pubDate>Wed, 18 Nov 2026 16:19:36 GMT</pubDate>
     </item>
     <item>
-      <description>Killington has lost three town employees amid workplace conflicts. Longtime bookkeeper Mona Hickory resigned citing a toxic environment and alleged harassment. Police Sgt. Mike Hoffman and Road Foreman Chad Galiano also resigned, and the town is searching for replacements.</description>
-      <guid isPermaLink="false">c885a69d-172b-4caf-9fc2-ea65e9b459c4-1bne3a3</guid>
-      <pubDate>Wed, 18 Nov 2026 11:33:00 GMT</pubDate>
+      <description>VNA &amp; Hospice of the Southwest Region honored employees for outstanding service during VNA Week. Nurse Francetta Tice received Employee of the Year, and two rookies were also recognized. The agency serves Bennington, Rutland, and Franklin counties with home health and hospice care.</description>
+      <guid isPermaLink="false">fd8f561f-bd6c-4eaf-a8e8-de0cfe1f96be-1yio3nw</guid>
+      <pubDate>Wed, 18 Nov 2026 16:18:36 GMT</pubDate>
     </item>
   </channel>
 </rss>
