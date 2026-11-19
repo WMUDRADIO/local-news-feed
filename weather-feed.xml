@@ -4,9 +4,9 @@
     <title>Woodchuck Weather Feed</title>
     <link>https://github.com/WMUDRADIO/local-news-feed</link>
     <item>
-      <description>Here's your Woodchuck Weather. High temperatures this afternoon range from fifty-eight to sixty-two degrees with mostly sunny to sunny skies and no precipitation expected. Tonight, skies stay mostly clear to partly cloudy with low temperatures between thirty-five and forty-two degrees and no chance of rain.</description>
-      <guid isPermaLink="false">weather-1795100687669</guid>
-      <pubDate>Thu, 19 Nov 2026 15:04:47 GMT</pubDate>
+      <description>Here's your Woodchuck Weather. Tonight, expect mostly clear skies across the region with low temperatures ranging from the middle thirties to around forty and no precipitation. Tomorrow brings clear to partly cloudy conditions, highs in the middle fifties to near sixty, and still no chance of rain. Friday night will be partly cloudy to mostly clear with lows from the lower thirties to the upper thirties and dry weather continuing.</description>
+      <guid isPermaLink="false">weather-1795118587242</guid>
+      <pubDate>Thu, 19 Nov 2026 20:03:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
