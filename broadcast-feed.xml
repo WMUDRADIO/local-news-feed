@@ -5,26 +5,26 @@
     <link>https://github.com/WMUDRADIO/local-news-feed</link>
     <description>Approved local stories in broadcast order</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Nov 2026 20:09:25 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 22:03:55 GMT</lastBuildDate>
     <item>
-      <description>Gas prices in Vermont have dropped below four dollars per gallon, averaging three dollars and ninety-two cents. Burlington prices fell nearly twenty cents to three dollars and ninety cents per gallon. The national average is at its lowest since mid-March, just before Thanksgiving.</description>
-      <guid isPermaLink="false">4be86fc9-f80b-45fa-9c28-fe0594cdda18-3avwgz</guid>
-      <pubDate>Mon, 23 Nov 2026 20:09:25 GMT</pubDate>
+      <description>Twenty-eight officers graduated from the Vermont Police Academy in Rutland. Graduate Griffin Melen will join the Rutland City Police Department next week.</description>
+      <guid isPermaLink="false">8c5aa25a-2a8a-40d2-af21-7cdfe9aa0e4b-1l58jlz</guid>
+      <pubDate>Mon, 23 Nov 2026 22:03:55 GMT</pubDate>
+    </item>
+    <item>
+      <description>Friends of Castleton Parks raised one hundred thousand dollars for a new gym floor. Installation starts November thirtieth and finishes by January first. The rec center building is owned by the town and partially leased to Vermont Sports Medicine Center.</description>
+      <guid isPermaLink="false">21f09e83-eed5-42a0-bff4-9a9ea1e937d0-g25z2y</guid>
+      <pubDate>Mon, 23 Nov 2026 22:02:55 GMT</pubDate>
     </item>
     <item>
       <description>Quarry Valley School Board reviewed a second draft of its fiscal year twenty twenty-eight budget. Education spending is projected to rise by four point two percent, with health insurance premiums adjusted to a two point five percent increase. The board approved a ten thousand dollar capital improvement for Proctor schools and will meet again in December.</description>
       <guid isPermaLink="false">825aab0b-2d28-4915-89d1-eb136dd94c90-s26bp0</guid>
-      <pubDate>Mon, 23 Nov 2026 20:08:25 GMT</pubDate>
+      <pubDate>Mon, 23 Nov 2026 22:01:55 GMT</pubDate>
     </item>
     <item>
-      <description>Vermont state employees will face a nine percent increase in health insurance premiums starting January first. This matches last year's increase after previous steep hikes. The state employees' union is urging Governor Phil Scott to cap hospital prices to lower costs.</description>
-      <guid isPermaLink="false">a0a037d6-68cd-4cbd-a2a7-611678085b17-xlmdho</guid>
-      <pubDate>Mon, 23 Nov 2026 20:07:25 GMT</pubDate>
-    </item>
-    <item>
-      <description>New York Governor Kathy Hochul announced student loan relief programs for nurses and farmers. The programs offer two point one million dollars in forgiveness. Applications are open until December sixteenth, twenty twenty-six.</description>
-      <guid isPermaLink="false">86df5288-b325-4e9a-a1b6-052acda95229-16nqmmi</guid>
-      <pubDate>Mon, 23 Nov 2026 20:06:25 GMT</pubDate>
+      <description>The butternut tree was expected to nearly disappear from Vermont by twenty twelve due to disease. Martin Kratt found hundreds of young and mature butternut trees on his Isle La Motte property. Researchers are now studying these trees to learn how they are surviving.</description>
+      <guid isPermaLink="false">37cb4a2a-8dbe-4846-8cb6-28f812f4b64e-xabgmn</guid>
+      <pubDate>Mon, 23 Nov 2026 22:00:55 GMT</pubDate>
     </item>
   </channel>
 </rss>
