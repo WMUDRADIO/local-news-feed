@@ -5,26 +5,26 @@
     <link>https://github.com/WMUDRADIO/local-news-feed</link>
     <description>Approved local stories in broadcast order</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Nov 2026 20:05:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 21:14:31 GMT</lastBuildDate>
+    <item>
+      <description>The Canadian Pacific Holiday Train returns to the North Country this Thanksgiving. It will visit multiple locations after the holiday meal. The train brings festive cheer to the community.</description>
+      <guid isPermaLink="false">ba5f4128-23ac-4551-a972-d7cf7bf5d252-eir1sj</guid>
+      <pubDate>Wed, 25 Nov 2026 21:14:31 GMT</pubDate>
+    </item>
     <item>
       <description>The Vermont Statehouse received its Christmas tree from the Delphas family of Rutland. The tree will be displayed as part of the holiday decorations. This marks the start of the festive season at the Statehouse.</description>
       <guid isPermaLink="false">c14ce8a2-ce59-4d1d-8ab9-3a85e4b11f49-aqdft2</guid>
-      <pubDate>Wed, 25 Nov 2026 20:05:08 GMT</pubDate>
-    </item>
-    <item>
-      <description>Killington's Select Board banned pets in town buildings except the library. The rule does not apply to service animals. The vote followed concerns about a dog causing an asthma attack in Town Hall.</description>
-      <guid isPermaLink="false">9c4cfbfd-f584-42e7-8a3d-27f57eedddca-1krgjry</guid>
-      <pubDate>Wed, 25 Nov 2026 20:04:08 GMT</pubDate>
+      <pubDate>Wed, 25 Nov 2026 21:13:31 GMT</pubDate>
     </item>
     <item>
       <description>Bromley Mountain Ski Resort has delayed its opening day to next weekend despite snowmaking efforts. Stratton Mountain and Bolton Valley have also postponed openings, with Bolton Valley aiming for December fifth. Jay Peak will open Friday with a special event for season passholders and guests.</description>
       <guid isPermaLink="false">a726e262-765b-4b57-812d-3ea333c03e6e-mmso4b</guid>
-      <pubDate>Wed, 25 Nov 2026 20:03:08 GMT</pubDate>
+      <pubDate>Wed, 25 Nov 2026 21:12:31 GMT</pubDate>
     </item>
     <item>
-      <description>Rutland Northeast Supervisory Union previewed a fourteen point six million dollar budget for fiscal year twenty-twenty-eight. The budget includes teacher raises and higher transportation costs. Special education reductions are planned but services remain protected by law.</description>
-      <guid isPermaLink="false">8064288a-d91f-44b0-b6d2-c0ce25c67e7d-1go1wsu</guid>
-      <pubDate>Wed, 25 Nov 2026 20:02:08 GMT</pubDate>
+      <description>A Rutland City family was displaced by fire for the second time this year. The November twenty-second fire damaged a building on Jackson Avenue. One elderly resident was treated for smoke inhalation at the hospital.</description>
+      <guid isPermaLink="false">0373400c-45be-464e-8571-7f0570dcbd50-u3ooaf</guid>
+      <pubDate>Wed, 25 Nov 2026 21:11:31 GMT</pubDate>
     </item>
   </channel>
 </rss>
