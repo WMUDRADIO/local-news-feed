@@ -5,26 +5,27 @@
     <link>https://github.com/WMUDRADIO/local-news-feed</link>
     <description>Approved local stories in broadcast order</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Nov 2026 21:14:31 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 07:04:27 GMT</lastBuildDate>
     <item>
-      <description>The Canadian Pacific Holiday Train returns to the North Country this Thanksgiving. It will visit multiple locations after the holiday meal. The train brings festive cheer to the community.</description>
-      <guid isPermaLink="false">ba5f4128-23ac-4551-a972-d7cf7bf5d252-eir1sj</guid>
-      <pubDate>Wed, 25 Nov 2026 21:14:31 GMT</pubDate>
+      <description>A coastal storm will bring rain and strong wind gusts to Vermont late tonight. A Wind Advisory is in effect for Addison, Windham, Rutland, and Bennington counties. Gusts could reach up to sixty miles per hour on mountain slopes, causing possible power outages.</description>
+      <guid isPermaLink="false">b4add7b6-ed4e-4c69-9528-829381f5620a-16xefel</guid>
+      <pubDate>Thu, 26 Nov 2026 07:04:27 GMT</pubDate>
     </item>
     <item>
-      <description>The Vermont Statehouse received its Christmas tree from the Delphas family of Rutland. The tree will be displayed as part of the holiday decorations. This marks the start of the festive season at the Statehouse.</description>
-      <guid isPermaLink="false">c14ce8a2-ce59-4d1d-8ab9-3a85e4b11f49-aqdft2</guid>
-      <pubDate>Wed, 25 Nov 2026 21:13:31 GMT</pubDate>
+      <description>The Canadian Pacific Holiday Train is rolling north along Lake Champlain this afternoon.
+Now in its twenty-eighth year, the brightly lit Holiday Train will stop in Fort Edward around three.  It arrives at the Port Henry Amtrak Station around six tonight before continuing north to Plattsburgh around eight.  Organizers encourage attendees to bring non-perishable food items or cash donations to support local food banks and pantries.</description>
+      <guid isPermaLink="false">ba5f4128-23ac-4551-a972-d7cf7bf5d252-1l6h5xo</guid>
+      <pubDate>Thu, 26 Nov 2026 07:03:27 GMT</pubDate>
     </item>
     <item>
       <description>Bromley Mountain Ski Resort has delayed its opening day to next weekend despite snowmaking efforts. Stratton Mountain and Bolton Valley have also postponed openings, with Bolton Valley aiming for December fifth. Jay Peak will open Friday with a special event for season passholders and guests.</description>
       <guid isPermaLink="false">a726e262-765b-4b57-812d-3ea333c03e6e-mmso4b</guid>
-      <pubDate>Wed, 25 Nov 2026 21:12:31 GMT</pubDate>
+      <pubDate>Thu, 26 Nov 2026 07:02:27 GMT</pubDate>
     </item>
     <item>
-      <description>A Rutland City family was displaced by fire for the second time this year. The November twenty-second fire damaged a building on Jackson Avenue. One elderly resident was treated for smoke inhalation at the hospital.</description>
-      <guid isPermaLink="false">0373400c-45be-464e-8571-7f0570dcbd50-u3ooaf</guid>
-      <pubDate>Wed, 25 Nov 2026 21:11:31 GMT</pubDate>
+      <description>New York Governor Kathy Hochul delayed Medicaid work requirements until June next year. The rules require recipients to show eighty hours a month of work or education, with some exemptions. The state is upgrading systems and hopes for federal changes to ease these rules.</description>
+      <guid isPermaLink="false">e0fdbbc0-6c67-4c3f-9276-1c81201ca2a2-1sbn6xg</guid>
+      <pubDate>Thu, 26 Nov 2026 07:01:27 GMT</pubDate>
     </item>
   </channel>
 </rss>
