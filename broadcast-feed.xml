@@ -5,26 +5,26 @@
     <link>https://github.com/WMUDRADIO/local-news-feed</link>
     <description>Approved local stories in broadcast order</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 Nov 2026 10:59:18 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 13:43:36 GMT</lastBuildDate>
     <item>
-      <description>Vermont state employees must return to the office at least three days a week starting January tenth. The Vermont Supreme Court ruled in favor of Governor Phil Scott's return-to-office mandate. The governor says the change will improve collaboration and public accessibility.</description>
-      <guid isPermaLink="false">ccf2a1ab-1446-4ee5-b5e3-7ce9414b5927-1o0xuok</guid>
-      <pubDate>Sat, 28 Nov 2026 10:59:18 GMT</pubDate>
-    </item>
-    <item>
-      <description>Whiteface Mountain in Wilmington, New York, opens this morning at nine a.m. with the summit and Little Whiteface slopes ready for skiers. The opening will be phased, with beginner terrain coming later. The mountain installed new snowmaking equipment to prepare for warm weather.</description>
-      <guid isPermaLink="false">61926013-c0ae-440b-b084-3cf692f747c6-17a2d3h</guid>
-      <pubDate>Sat, 28 Nov 2026 10:58:18 GMT</pubDate>
+      <description>High winds on Thanksgiving caused power outages for nearly ten thousand Green Mountain Power customers in Bennington County. By Friday afternoon, crews restored power to most, leaving about one thousand two hundred still without service. The storm also led to road closures and postponed holiday events in the area.</description>
+      <guid isPermaLink="false">fa415ac2-6c4f-4c5f-bf35-2ccda281dde0-owal15</guid>
+      <pubDate>Sat, 28 Nov 2026 13:43:36 GMT</pubDate>
     </item>
     <item>
       <description>A twenty-two-unit housing development behind Taylor Square in Rutland faces financing risks due to Act two fifty permit delays. Developer Tracy Taylor's loan extension expires at the end of twenty twenty-six. The city aims to gain Tier oneA status to exempt Rutland from Act two fifty regulations.</description>
       <guid isPermaLink="false">3452ae34-cbd8-4141-a5dc-e379f76f99c6-p2ngyl</guid>
-      <pubDate>Sat, 28 Nov 2026 10:57:18 GMT</pubDate>
+      <pubDate>Sat, 28 Nov 2026 13:42:36 GMT</pubDate>
     </item>
     <item>
-      <description>Rabbit Rabbit Cafe has opened in the Rutland-Southern Vermont Regional Airport terminal. The cafe serves farm-to-table breakfast sandwiches, salads, and local products. Owners Gregory Saint-Peter and Kat Hall Saint-Peter plan to expand the menu while keeping quality high.</description>
-      <guid isPermaLink="false">530d5c6f-5b83-4978-beff-49ca8f7c911b-73y568</guid>
-      <pubDate>Sat, 28 Nov 2026 10:56:18 GMT</pubDate>
+      <description>Wheels for Warmth raised ten thousand dollars for fuel assistance in southeastern Vermont. The funds will support people across Windham and Windsor counties. Southeastern Vermont Community Action thanks all donors for their generosity.</description>
+      <guid isPermaLink="false">add4a187-182d-44c1-bb86-36e8f57ca6ed-kk9ueu</guid>
+      <pubDate>Sat, 28 Nov 2026 13:41:36 GMT</pubDate>
+    </item>
+    <item>
+      <description>Vermont's weekly unemployment claims rose to four hundred ninety-seven last week. The state's unemployment rate stayed steady at two point six percent in October. The Vermont Department of Labor encourages job seekers to visit regional offices for assistance.</description>
+      <guid isPermaLink="false">d79af73d-65f2-4613-9f93-6e37bb135731-r7rak3</guid>
+      <pubDate>Sat, 28 Nov 2026 13:40:36 GMT</pubDate>
     </item>
   </channel>
 </rss>
